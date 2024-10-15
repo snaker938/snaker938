@@ -17,7 +17,7 @@ Some areas I have explored and developed in:
 ### 🧰 Programming Languages
 
 <p align="left" style="padding-top:0px;">
-    <img alt="Lua" width="30px" style="padding-right:10px;" src="https://www.lua.org/images/logo.svg" />
+    <img alt="Lua" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png" />
     <img alt="LuaU" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png" />
     <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />

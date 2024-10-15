@@ -58,10 +58,10 @@ Some areas I have explored and developed in:
 ## 📊 GitHub Stats
 
 <p align="left">
-    <a href="https://github.com/yourusername?tab=followers">
+    <a href="https://github.com/snaker938?tab=followers">
         <img alt="GitHub Followers" title="Github Followers" src="https://img.shields.io/github/followers/yourusername?color=236ad3&label=Follow&style=for-the-badge&logo=github"/>
     </a>
-    <a href="https://github.com/yourusername?tab=repositories">
+    <a href="https://github.com/snaker938?tab=repositories">
         <img alt="GitHub Total Stars" title="Stars on GitHub" src="https://img.shields.io/github/stars/yourusername?color=55960c&style=for-the-badge&logo=github"/>
     </a>
 </p>
@@ -75,6 +75,6 @@ Some areas I have explored and developed in:
 
 I also have experience with the latest **WordPress**. I created an online sweet shop, showcasing my skills in web development and e-commerce.
 
----
+mysterysweets.co.uk
 
-*Feel free to replace `yourusername` with your actual GitHub username in the links and images.*
+---

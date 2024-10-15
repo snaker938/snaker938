@@ -55,26 +55,25 @@ Some areas I have explored and developed in:
     <img alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Roblox_Studio_Icon.png" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="left">
-    <a href="https://github.com/snaker938?tab=followers">
-        <img alt="GitHub Followers" title="Github Followers" src="https://img.shields.io/github/followers/yourusername?color=236ad3&label=Follow&style=for-the-badge&logo=github"/>
-    </a>
-    <a href="https://github.com/snaker938?tab=repositories">
-        <img alt="GitHub Total Stars" title="Stars on GitHub" src="https://img.shields.io/github/stars/yourusername?color=55960c&style=for-the-badge&logo=github"/>
-    </a>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&langs_count=10&title_color=FC0000&text_color=ffffff&icon_color=FC0000&bg_color=151718&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=gruvbox&border_radius=4.5)
-
 ## 🌐 Website
 
 I also have experience with the latest **WordPress**. I created an online sweet shop, showcasing my skills in web development and e-commerce.
 
-mysterysweets.co.uk
+[Visit Mystery Sweets](https://mysterysweets.co.uk)
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="left">
+    <a href="https://github.com/snaker938?tab=followers">
+        <img alt="GitHub Followers" title="Github Followers" src="https://img.shields.io/github/followers/snaker938?color=236ad3&label=Follow&style=for-the-badge&logo=github"/>
+    </a>
+    <a href="https://github.com/snaker938?tab=repositories">
+        <img alt="GitHub Total Stars" title="Stars on GitHub" src="https://img.shields.io/github/stars/snaker938?color=55960c&style=for-the-badge&logo=github"/>
+    </a>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaker938&langs_count=10&title_color=FC0000&text_color=ffffff&icon_color=FC0000&bg_color=151718&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+
+![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snaker938&show_icons=true&theme=gruvbox)

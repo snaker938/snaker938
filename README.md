@@ -17,7 +17,7 @@ Some areas I have explored and developed in:
 ### 🧰 Programming Languages
 
 <p align="left" style="padding-top:0px;">
-    <img alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
+    <img alt="Lua" width="30px" style="padding-right:10px;" src="https://www.lua.org/images/logo.svg" />
     <img alt="LuaU" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png" />
     <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -52,7 +52,7 @@ Some areas I have explored and developed in:
 
 <p align="left">
     <img alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
-    <img alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Roblox_Studio_Icon.png" />
+    <img alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/6/2/f/62f64963b3b8eda573996bdfb646729e818ef77b_2_500x500.png" />
 </p>
 
 ## 🌐 Website

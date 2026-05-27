@@ -1,79 +1,155 @@
-## Welcome to my GitHub!
+<div align="center">
 
-Hey, I'm **Joshua**!
+# Hey, I'm Joshua 👋
 
-I'm primarily a full-stack game developer on the ROBLOX platform, but I have also expanded my toolset to improve my skills and knowledge across the development stack.
+### Full-stack Roblox game developer • Web developer • Tooling & systems builder
 
-Most of the programming and coding projects in my repositories are created by me.
+I'm a developer focused on building **Roblox experiences**, **full-stack web applications**, and practical tools that solve real problems.  
+My GitHub is a mix of game systems, web projects, algorithm visualisers, developer tooling, and university/programming coursework.
 
-Some areas I have explored and developed in:
+</div>
 
-- **Full-Stack Game Development on ROBLOX**
-- **Multi-Language Programming**
-- **Web Development**
+---
 
-*Note: The code in my repositories may not all be up-to-date as some projects were created before others.*
+## 🚀 About Me
 
-### 🧰 Programming Languages
+- 🎮 Primarily focused on **full-stack game development on Roblox**
+- 🧠 Interested in algorithms, optimisation, compilers, and developer tooling
+- 🌐 Experienced with web technologies including **React**, **Node.js**, **Flask**, **FastAPI**, **Next.js**, and **WordPress**
+- 🛠️ I enjoy building projects that combine clean systems, useful interfaces, and practical problem-solving
+- 📚 Some older repositories are learning projects or archived work from earlier in my development journey
 
-<p align="left" style="padding-top:0px;">
-    <img alt="Lua" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/640px-Lua-Logo.svg.png" />
-    <img alt="LuaU" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/2048px-Luau_Logo_%28Programming_Language%29.svg.png" />
-    <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-    <img alt="Haskell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg"/>
-    <img alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</p>
+---
 
-### 🧰 Frameworks and Libraries
+## 🧰 Tech Stack
 
-<p align="left" style="padding-top:0px;">
-    <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-    <img alt="Electron" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"/>
-    <img alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/>
-    <img alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</p>
-
-### 🧰 Tools and Technologies
-
-<p align="left" style="padding-top:0px;">
-    <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-    <img alt="Rojo" width="50px" style="padding-right:10px;" src="https://rojo.space/assets/images/logo-151511d418967797798e02dc0ca74aaf.png" />
-    <img alt="PyGame" width="30px" style="padding-right:10px;" src="https://www.pygame.org/docs/_static/pygame_logo.png" />
-    <img alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-    <img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</p>
-
-### 🧰 Platforms / IDEs
+### Languages
 
 <p align="left">
-    <img alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> 
-    <img alt="Roblox Studio" width="30px" style="padding-right:10px;" src="https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/optimized/4X/6/2/f/62f64963b3b8eda573996bdfb646729e818ef77b_2_500x500.png" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white" alt="Haskell" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-## 🌐 Website
+### Frameworks, Libraries & Platforms
 
-I also have experience with the latest **WordPress**. I created an online sweet shop, showcasing my skills in web development and e-commerce.
+<p align="left">
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
+  <img src="https://img.shields.io/badge/Rojo-CC0000?style=for-the-badge&logoColor=white" alt="Rojo" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyGame" />
+</p>
 
-[Visit Mystery Sweets](https://mysterysweets.co.uk)
+### Tools & Databases
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🎮 Roblox & Game Development
+
+- **[Drakon's Legacy](https://github.com/snaker938/drakons-legacy)**  
+  Roblox-focused game development project exploring gameplay systems and experience design.
+
+- **[Roblox Tag](https://github.com/snaker938/roblox-tag)**  
+  A Roblox project centred around game mechanics and multiplayer-style gameplay ideas.
+
+- **[SnackQuest](https://github.com/snaker938/SnackQuest)**  
+  A project combining game-style design with interactive development ideas.
+
+### 🛠️ Developer Tools & Interfaces
+
+- **[Blueprint AI for VS Code](https://github.com/snaker938/vscode-blueprint-ai)**  
+  A VS Code extension project for AI-assisted UI generation, visual editing, and frontend workflow experimentation.
+
+- **[Searching Visualiser](https://github.com/snaker938/searching-visualiser)**  
+  A React-based visualisation project for exploring searching/pathfinding-style algorithms.
+
+### ⚙️ Systems, Algorithms & Optimisation
+
+- **[WhatIf Freight Router](https://github.com/snaker938/whatif-freight-router)**  
+  A full-stack freight route recommendation and certification system using a FastAPI backend, Next.js frontend, Docker, and routing infrastructure.
+
+- **[BCEL-Based Bytecode Optimiser for Java](https://github.com/snaker938/BCEL-Based-Bytecode-Optimiser-for-Java)**  
+  A Java bytecode optimisation project built around Apache BCEL.
+
+- **[CHIP-8](https://github.com/snaker938/chip-8)**  
+  Low-level emulator-style project work exploring how simple virtual machines operate.
+
+### 🌐 Web Development
+
+- **[Mystery Sweets](https://mysterysweets.co.uk)**  
+  An online sweet shop built with WordPress and e-commerce tooling.
+
+- **[GitHub Pages Site](https://github.com/snaker938/snaker938.github.io)**  
+  Personal web presence and frontend experimentation.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-    <a href="https://github.com/snaker938?tab=followers">
-        <img alt="GitHub Followers" title="Github Followers" src="https://img.shields.io/github/followers/snaker938?color=236ad3&label=Follow&style=for-the-badge&logo=github"/>
-    </a>
-    <a href="https://github.com/snaker938?tab=repositories">
-        <img alt="GitHub Total Stars" title="Stars on GitHub" src="https://img.shields.io/github/stars/snaker938?color=55960c&style=for-the-badge&logo=github"/>
-    </a>
+  <a href="https://github.com/snaker938?tab=followers">
+    <img 
+      alt="GitHub Followers" 
+      title="GitHub Followers" 
+      src="https://img.shields.io/github/followers/snaker938?color=236ad3&label=Followers&style=for-the-badge&logo=github" 
+    />
+  </a>
+  <a href="https://github.com/snaker938?tab=repositories">
+    <img 
+      alt="GitHub Stars" 
+      title="GitHub Stars" 
+      src="https://img.shields.io/github/stars/snaker938?color=55960c&style=for-the-badge&logo=github" 
+    />
+  </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaker938&langs_count=10&title_color=FC0000&text_color=ffffff&icon_color=FC0000&bg_color=151718&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=snaker938&show_icons=true&theme=gruvbox&hide_border=true" 
+    alt="Joshua's GitHub Stats" 
+  />
+</p>
 
-![Joshua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snaker938&show_icons=true&theme=gruvbox)
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=snaker938&langs_count=10&layout=compact&theme=gruvbox&hide_border=true&custom_title=Top%20Languages" 
+    alt="Top Languages" 
+  />
+</p>
+
+---
+
+## 🔗 Links
+
+- 🌐 **Website:** [Mystery Sweets](https://mysterysweets.co.uk)
+- 💻 **GitHub:** [github.com/snaker938](https://github.com/snaker938)
+
+---
+
+<div align="center">
+
+Thanks for visiting my profile!
+
+</div>
